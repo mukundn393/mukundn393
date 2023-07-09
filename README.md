@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Mukund Niranjan<br>A hooman passionate about uncovering insights from a massive volume of Data to drive pivotal business decisions
-
+## Hi I'm Mukund Niranjan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukund-niranjan/) 
